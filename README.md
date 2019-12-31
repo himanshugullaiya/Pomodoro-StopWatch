@@ -25,6 +25,5 @@ Inspired by the pomodoro Technique, I created this Python app, to **boost your p
 
   <img src = "gifs/keys.gif" width = "35%" height = "35%" alt = "Key Working">
 
-+ ** Prompts ** at 25 Minutes to give your mind a break
-
-|<img src = "images/alert1.PNG" width = "30%" height = "30%">
++  **Prompts** at 25 Minutes to give your mind a break & reset it<br><br>
+ <img src = "images/alert1.PNG" width = "30%" height = "30%"> &nbsp; <img src = "images/alert2.PNG" width = "30%" height = "30%"> &nbsp; <img src = "images/3.PNG" width = "30%" height = "30%">
