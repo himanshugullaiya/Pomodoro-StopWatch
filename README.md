@@ -1,6 +1,6 @@
 # Pomodoro StopWatch Python Widget
 
-### :watch: with an Alert that keeps you Productivity up!
+### :watch: with an Alert that keeps your Productivity up!
 
 Inspired by the pomodoro Technique, I created this Python app, to **boost your productivity** which gives prompts every 25 Minutes so that you can take break for the next 5 Minutes and then continue working. This technique allows to 
 
