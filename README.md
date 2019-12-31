@@ -31,8 +31,14 @@ Inspired by the pomodoro Technique, I created this Python app, to **boost your p
   <img src = "gifs/keys.gif" width = "45%" height = "45%" alt = "Key Working"> 
   <br><br>
 
-+  **Prompts** at 25 Minutes to give your mind a break & reset it<br><br>
- <img src = "images/alert1.PNG" width = "30%" height = "30%"> &nbsp; <img src = "images/alert2.PNG" width = "30%" height = "30%"> <br><img src = "images/alert3.PNG" width = "30%" height = "30%"> &nbsp; <img src = "images/alert4.PNG" width = "30%" height = "30%">
++ How to Effectively Apply this Technique?
+  + Widget **Prompts** you at Intervals of 25 Minutes. 
+  + Take a Break for 5 Minutes for first 4 Pomodoros i.e. First 100 Minutes.
+  + Take a Break for 30 Minutes after the Next Interval.
+  + After Completing Last Pomodoro, Clap for yourself and take a break for an Hour or Two :smiley:
+ 
+ 
+ <img src = "images/alert1.PNG" width = "30%" height = "30%"> &nbsp; <img src = "images/alert2.PNG" width = "30%" height = "30%"> <br>    <img src = "images/alert3.PNG" width = "30%" height = "30%"> &nbsp; <img src = "images/alert4.PNG" width = "30%" height = "30%">
 
 
 
