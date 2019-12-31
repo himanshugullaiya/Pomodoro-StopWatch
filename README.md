@@ -2,8 +2,8 @@
 
 ### :watch: with an Alert that keeps your Productivity up!
 
-#### Use this as a Regular App and Witness the Magic Yourself 
-
+#### Use this as a Regular App and Witness the Magic Yourself :fire:
+<br>
 
 Inspired by the pomodoro Technique, I created this Python app, to **boost your productivity** which gives prompts every 25 Minutes so that you can take break for the next 5 Minutes and then continue working. This technique allows to 
 
@@ -14,11 +14,11 @@ Inspired by the pomodoro Technique, I created this Python app, to **boost your p
 <br>
 <img src = "gifs/main_preview.gif" width = "55%" height = "55%" alt = "Working of Stopwatch">
 
-**Pre-Requisites**
+**Pre-Requisites** 
 > Python : Install from [here](https://www.python.org/downloads/)<br>
 > tkinter Library : `pip install tkinter`
 
-### Key Features
+### Key Features :zap:
 + AutoStart With VBScript <br>
 + > Download the Code Folder & run savemytime.vbs scipt to open the widget app.
     <img src = "gifs/open.gif" width = "45%" height = "45%">
@@ -34,7 +34,7 @@ Inspired by the pomodoro Technique, I created this Python app, to **boost your p
   <img src = "gifs/keys.gif" width = "45%" height = "45%" alt = "Key Working"> 
   <br><br>
 
-+ How to Effectively Apply this Technique?
++ How to Effectively Apply this Technique? :memo:
   + Widget **Prompts** you at Intervals of 25 Minutes. 
   + Take a Break for 5 Minutes for first 4 Pomodoros i.e. First 100 Minutes.
   + Take a Break for 30 Minutes after the Next Interval.
