@@ -37,9 +37,10 @@ Inspired by the pomodoro Technique, I created this Python app, to **boost your p
   + Take a Break for 30 Minutes after the Next Interval.
   + After Completing Last Pomodoro, Clap for yourself and take a break for an Hour or Two :smiley:
  
- 
- <img src = "images/alert1.PNG" width = "30%" height = "30%"> &nbsp; <img src = "images/alert2.PNG" width = "30%" height = "30%"> <br>    <img src = "images/alert3.PNG" width = "30%" height = "30%"> &nbsp; <img src = "images/alert4.PNG" width = "30%" height = "30%">
 
+<img src = "images/alert1.PNG" width = "30%" height = "30%"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src = "images/alert2.PNG" width = "30%" height = "30%"> <br> <br> <br>
+<img src = "images/alert3.PNG" width = "30%" height = "30%"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src = "images/alert4.PNG" width = "30%" height = "30%">
 
+<br> <br>
 
 > This may look like a simple app which it is :wink: but it is really Powerful, and effective in Time Management. Trust me, this is an tried and tested Product. Happy Growing !!
