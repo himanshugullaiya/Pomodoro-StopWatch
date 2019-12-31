@@ -5,7 +5,8 @@
 Inspired by the pomodoro Technique, I created this Python app, to **boost your productivity** which gives prompts every 25 Minutes so that you can take break for the next 5 Minutes and then continue working.
 
 
-> *Note: I have open-sourced this App, so that you can customize this your own way by forking from my Repo.*
+> *Note: I have open-sourced this App, so that you can customize this your own way by forking from my Repo. 
+   You can even convert this into an .exe file and run on any machine.*
 
 <br>
 <img src = "gifs/main_preview.gif" width = "55%" height = "55%" alt = "Working of Stopwatch">
