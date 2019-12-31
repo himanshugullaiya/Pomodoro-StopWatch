@@ -14,8 +14,8 @@ Inspired by the pomodoro Technique, I created this Python app, to **boost your p
 
 ### Key Features
 + AutoStart With VBScript <br>
-> Download the Code Folder & run savemytime.vbs scipt to open the widget app.
-  <img src = "gifs/open.gif" width = "35%" height = "35%">
++ > Download the Code Folder & run savemytime.vbs scipt to open the widget app.
+    <img src = "gifs/open.gif" width = "35%" height = "35%">
 
 + With Keyboard & Mouse Compatibility:
 
