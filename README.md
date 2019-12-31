@@ -2,7 +2,7 @@
 
 ### :watch: with an Alert that keeps your Productivity up!
 
-#### Use this as a Regular App and Witness the Magic Yourself :fire:
+#### Use this Regularly and Witness the Magic Yourself :fire:
 <br>
 
 Inspired by the pomodoro Technique, I created this Python app, to **boost your productivity** which gives prompts every 25 Minutes so that you can take break for the next 5 Minutes and then continue working. This technique allows to 
