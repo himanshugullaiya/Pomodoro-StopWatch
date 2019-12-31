@@ -2,7 +2,7 @@
 
 ### :watch: with an Alert that keeps you Productivity up!
 
-Inspired by the pomodoro Technique, I created this Python app, to **boost your productivity** which gives prompts every 25 Minutes so that you can take break for the next 5 Minutes and then continue working.
+Inspired by the pomodoro Technique, I created this Python app, to **boost your productivity** which gives prompts every 25 Minutes so that you can take break for the next 5 Minutes and then continue working. This technique allows to 
 
 
 > *Note: I have open-sourced this App, so that you can customize this your own way by forking from my Repo. 
@@ -32,7 +32,7 @@ Inspired by the pomodoro Technique, I created this Python app, to **boost your p
   <br><br>
 
 +  **Prompts** at 25 Minutes to give your mind a break & reset it<br><br>
- <img src = "images/alert1.PNG" width = "30%" height = "30%"> &nbsp; <img src = "images/alert2.PNG" width = "30%" height = "30%"> &nbsp; <img src = "images/3.PNG" width = "30%" height = "30%">
+ <img src = "images/alert1.PNG" width = "30%" height = "30%"> &nbsp; <img src = "images/alert2.PNG" width = "30%" height = "30%"> <br><img src = "images/alert3.PNG" width = "30%" height = "30%"> &nbsp; <img src = "images/alert4.PNG" width = "30%" height = "30%">
 
 
 
