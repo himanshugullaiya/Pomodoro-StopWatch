@@ -1,4 +1,4 @@
-# Pomodoro StopWatch Python App
+# Pomodoro StopWatch Python Widget
 
 ### :watch: with an Alert that keeps you Productivity up!
 
