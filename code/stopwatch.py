@@ -32,6 +32,7 @@ class App:
         self.total_time_prev = 0
         self.total_time_curr = 0
         self.pomodoro_count = 1
+        self.root.lift()
 
         master.bind('<Escape>',self.exit)
         # master.bind('<Return>', self.start)
